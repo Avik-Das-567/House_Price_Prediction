@@ -1,6 +1,6 @@
 # Linear Regression with Streamlit - House Price Prediction
 ### App Link
-* https://house-price-prediction-linear-regression.streamlit.app/
+* https://linear-regression-houseprice-prediction.streamlit.app/
 ## Objective
 * Predicting the **House Price** Based on **Area**
 * **Example Problem:** We have data about **Area in Square Feet** and **Price in Thousands**
