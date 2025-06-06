@@ -26,8 +26,8 @@
 
 ---
 ### How It Works
-- Load the data using **`pd.read_csv()`**.
-- Train a model using **`LinearRegression()`**.
-- Ask for user input using **`st.number_input()`**.
-- Show the result using **`st.write()`**.
+- **Load the data** using **`pd.read_csv()`**.
+- **Train a model** using **`LinearRegression()`**.
+- Ask for **user input** using **`st.number_input()`**.
+- **Show the result** using **`st.write()`**.
 ---
